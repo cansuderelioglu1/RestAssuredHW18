@@ -1,0 +1,18 @@
+{
+  "id":3 ,
+  "category": {
+    "id": 1,
+    "name": "Terrier"
+  },
+  "name": "Tom",
+  "photoUrls": [
+    "Instagram"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
